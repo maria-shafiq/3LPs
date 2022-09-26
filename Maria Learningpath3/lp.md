@@ -8,6 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios: 
-- Maria Scenario5
-- Maria Scenario6
-
+ - Maria Scenario5
+ - Maria Scenario6
