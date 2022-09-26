@@ -2,6 +2,7 @@ title: Maria Scenario6
 description: docker intro test scenario
 time: 20 minutes
 level: intermediate
+status: draft
 thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/docker.png
 authors:
   - wajeehamanzoor
