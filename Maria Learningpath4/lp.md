@@ -2,7 +2,7 @@ categories:
   - Golang
 description: Lets learn how to develop a concurrent application in Go language.
 isAvailable: true
-isNew: hhgjggkjgk
+isNew: type
 isPremium: true
 license: Apache
 scenarioCount: 1
