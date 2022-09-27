@@ -3,10 +3,9 @@ categories:
 description: Lets learn how to develop a concurrent application in Go language.
 isAvailable: true
 isNew: true
-isPremium: false
+isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios: 
   - Maria Scenario2
-  - Maria Scenario2312e
 title: Maria Learningpath4
