@@ -5,7 +5,7 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 1
+scenarioCount: 2
 scenarios: 
   - Maria Scenario2
   - Maria Scenario2312e
