@@ -12,6 +12,4 @@ steps:
 license: ""
 isPremium: true
 isNew: true
-isAvailable: true
-environmentvars: {}
-environment: "aaa"
+
