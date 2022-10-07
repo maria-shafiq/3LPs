@@ -14,4 +14,4 @@ isPremium: true
 isNew: true
 isAvailable: true
 environmentvars: {}
-environment: ""
+environment: "aaa"
