@@ -3,7 +3,6 @@ description: Learn the basics of Goroutines.
 time: 15 minutes
 level: intermediate
 steps:
-- step1
 - step2.md
 - step3.md
 - step4.md
