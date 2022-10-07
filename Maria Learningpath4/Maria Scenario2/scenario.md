@@ -12,7 +12,7 @@ steps:
 license: ""
 isPremium: true
 isNew: true
-isAvailable: false
+isAvailable: true
 environmentvars: {}
 environment: ""
 
